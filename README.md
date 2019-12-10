@@ -1,0 +1,2 @@
+# KarmaCompanion
+Track your karma!
